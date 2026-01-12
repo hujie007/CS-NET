@@ -19,5 +19,6 @@ Each folder BMP/Email/USblog contains the data and R code for reproduce the anal
 
 ### Simulation studies
 
-source("simulation function.R") \\
+source("simulation function.R") 
+
 source("sim.R") 
